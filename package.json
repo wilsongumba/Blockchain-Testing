@@ -1,5 +1,5 @@
 {
-  "name": "trips-list",
+  "name": "vote-location",
   "version": "1.0.0",
   "description": "",
   "main": "truffle.js",
@@ -13,7 +13,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "lite-server": "^2.6.1",
-    "truffle": "^5.9.4"
+    "lite-server": "^2.6.1"
   }
 }

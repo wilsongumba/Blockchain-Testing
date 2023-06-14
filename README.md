@@ -21,3 +21,11 @@ Run the liteserver development server (outside the development console) for fron
 ```
 npm run dev
 ```
+
+## Runing tests
+
+Ensure ganache is running and run the tests with:
+
+```
+truffle test
+```
